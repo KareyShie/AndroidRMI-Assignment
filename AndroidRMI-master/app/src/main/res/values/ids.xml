@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvToyAdd" type="id" />
+    <item name="rvToyDelete" type="id" />
+    <item name="rvToyUpdate" type="id" />
+    <item name="rvToyReceipt" type="id" />
+    <item name="viewToys" type="id" />
+    <item name="addToyPrice" type="id" />
+    <item name="updateToyPrice" type="id" />
+    <item name="deleteToyPrice" type="id" />
+</resources>
